@@ -6,7 +6,7 @@ WKL 65% PCB
 * Hardware Supported: Baion656 PCB with STM32F072
 * Hardware Availability: https://baionlenja.com 
 
-![Render](https://imgur.com/a/xcoTztv.png)
+![Render](https://i.imgur.com/uZgAmq0.jpg)
 
 ## Instructions
 
